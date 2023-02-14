@@ -1,0 +1,2 @@
+# genmysql 
+ATIVIDADES DE MYSQL DA GEN
